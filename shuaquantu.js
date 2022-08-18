@@ -1,7 +1,7 @@
 [mitm] 
 hostname = qf.52jietu.com
 
-***********************************/
+***********************************
 
 var cuttlefish ={"warning":"本脚本仅供学习交流使用"};
 var neirong = {
