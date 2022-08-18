@@ -1,9 +1,3 @@
-/*
-[mitm] 
-hostname = qf.52jietu.com
-
-***********************************
-
 var obj = JSON.parse($response.body);
 var obj = {
   "status": 1,
