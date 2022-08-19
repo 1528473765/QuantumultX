@@ -5,5 +5,5 @@ var obj = {
     "group": "终身会员",
     "is_timeout": false,
   }
-};
+}
 $done({body: JSON.stringify(obj)});
