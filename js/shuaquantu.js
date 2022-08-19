@@ -2,7 +2,6 @@ var obj = JSON.parse($response.body);
 var obj = {
   "status": 1,
   "info": {
-    "nickName": "6",
     "group": "终身会员",
     "is_agent": "0",
     "end_time": "无限期",
