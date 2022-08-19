@@ -2,7 +2,22 @@ var obj = JSON.parse($response.body);
 var obj = {
   "status": 1,
   "info": {
-  "is_timeout": false,
+    "username": "6",
+    "nickName": "",
+    "group": "终身会员",
+    "is_agent": "0",
+    "end_time": "无限期",
+    "is_timeout": false,
+    "isGF": 0,
+    "m3_num": "0",
+    "inviteCode": "",
+    "inviteCode_state": 0,
+    "alipayName": "",
+    "alipayId": "",
+    "inviteMoney": 0,
+    "inviteBili": 0,
+    "inviteUserNum": 0,
+    "inviteUserBuyNum": 0,
   }
-};
+}
 $done({body: JSON.stringify(obj)});
