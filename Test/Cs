@@ -1,0 +1,3 @@
+hostname = buy.itunes.apple.com
+
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/1528473765/QuanX/main/js/cs
