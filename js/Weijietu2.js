@@ -5,7 +5,7 @@ var obj = {
     "login" : "0",
     "end_time" : "2030-12-12",
     "is_agent" : "4",
-     "agent" : "至尊代理商",
+    "agent" : "至尊代理商",
     "nickname" : "芮.b",
     "alipay" : "",
     "istest" : "0",
