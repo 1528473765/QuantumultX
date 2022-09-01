@@ -1,14 +1,6 @@
 /*
- 
+果冻app 
 下载地址：https://gd.ihunl.com/?code=dgYa
-
-果冻app 成人؋的视频
-
-修改内容：解锁会员
-
-注意事项：每次解锁需要启动圈叉
-
-
 
 [rewrite_local]
 
