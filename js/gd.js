@@ -6,7 +6,7 @@
 [rewrite_local]
 
 #果冻app
-^http[s]?:\/\/.+\.(pgnktni|izivuiw)\.cn\/(.+)\/api\/user\/userInfo url script-response-body gd.js
+^http[s]?:\/\/.+\.(pgnktni|izivuiw)\.cn\/(.+)\/api\/user\/userInfo url script-response-body https://raw.githubusercontent.com/1528473765/QuantumultX/iOS/js/gd.js
 
 
 
