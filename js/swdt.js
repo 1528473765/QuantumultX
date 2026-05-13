@@ -15,7 +15,7 @@ TG频道群：https://t.me/py996
 
 [rewrite_local]
 
-^https:\/\/map.kky888.cn/user/info url script-response-body https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/kky888.js
+^https:\/\/map.kky888.cn/user/info url script-response-body https://raw.githubusercontent.com/1528473765/QuantumultX/refs/heads/iOS/js/swdt.js
 
 [mitm] 
 
