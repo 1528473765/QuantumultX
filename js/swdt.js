@@ -26,6 +26,6 @@ hostname = map.kky888.cn
 var body = $response.body.replace(/is_vip":\w+/g,'is_vip":true')
 .replace(/vipFlag":"\d+"/g,'vipFlag":"1"')
 .replace(/vipTime":".*?"/g,'vipTime":"2026-12-09 09:03:09"')
-.replace(/accountName":".*?"/g,'accountName":"彭于晏"')
+.replace(/accountName":".*?"/g,'accountName":高迪"')
 .replace(/id":".*?"/g,'id":"1502648853801730041"')
 $done({ body });
