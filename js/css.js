@@ -13,8 +13,6 @@ try {
 
     user.vip = "1";
     user.vip_type = "1";
-    user.vip_et = "永久会员";
-    user.vip_et_t = "4102444800";
 
     obj.data.userinfo = user;
   }
